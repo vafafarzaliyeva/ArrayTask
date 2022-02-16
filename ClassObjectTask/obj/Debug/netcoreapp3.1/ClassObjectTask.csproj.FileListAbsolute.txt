@@ -1,0 +1,14 @@
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\bin\Debug\netcoreapp3.1\ClassObjectTask.exe
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\bin\Debug\netcoreapp3.1\ClassObjectTask.deps.json
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\bin\Debug\netcoreapp3.1\ClassObjectTask.runtimeconfig.json
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\bin\Debug\netcoreapp3.1\ClassObjectTask.runtimeconfig.dev.json
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\bin\Debug\netcoreapp3.1\ClassObjectTask.dll
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\bin\Debug\netcoreapp3.1\ClassObjectTask.pdb
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\obj\Debug\netcoreapp3.1\ClassObjectTask.csproj.AssemblyReference.cache
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\obj\Debug\netcoreapp3.1\ClassObjectTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\obj\Debug\netcoreapp3.1\ClassObjectTask.AssemblyInfoInputs.cache
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\obj\Debug\netcoreapp3.1\ClassObjectTask.AssemblyInfo.cs
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\obj\Debug\netcoreapp3.1\ClassObjectTask.csproj.CoreCompileInputs.cache
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\obj\Debug\netcoreapp3.1\ClassObjectTask.dll
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\obj\Debug\netcoreapp3.1\ClassObjectTask.pdb
+C:\Users\DoctorCOMP\Desktop\ClassObjectTask\ClassObjectTask\obj\Debug\netcoreapp3.1\ClassObjectTask.genruntimeconfig.cache
